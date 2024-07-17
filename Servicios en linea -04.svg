@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 506 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c5f8d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #44a5d3;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-4 {
+        fill: #026591;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #64aadb;
+      }
+
+      .cls-6 {
+        fill: #f6f5f9;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="20"/>
+      <feFlood flood-color="#000" flood-opacity=".5"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="1239.5" y="-769.5" width="982" height="796"/>
+    </clipPath>
+  </defs>
+  <g class="cls-7">
+    <g class="cls-8">
+      <g>
+        <path class="cls-2" d="M-1243.95-3069.6c-1923.33,0-3482.49,1571.3-3482.49,3509.6s1559.16,3509.6,3482.49,3509.6S2238.54,2378.3,2238.54,440,679.37-3069.6-1243.95-3069.6h0Z"/>
+        <path class="cls-4" d="M-1305.78-3057.6c-1931.67,0-3497.6,1565.93-3497.6,3497.6s1565.93,3497.6,3497.6,3497.6S2191.82,2371.67,2191.82,440,625.89-3057.6-1305.78-3057.6h0Z"/>
+        <circle class="cls-6" cx="-1374.84" cy="440" r="3509.6"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-5" d="M355.46,443.9h0c-49.34,49.34-125.43,55.59-181.56,18.79l-67.05,67.05c90.42,74.62,224.45,69.66,309.04-14.93l4.2-4.2c84.59-84.59,89.55-218.62,14.93-309.04l-60.78,60.78c36.81,56.13,30.55,132.23-18.78,181.56Z"/>
+    <path class="cls-1" d="M150.82,239.26l102.02-102.02c.17-.17.44-.17.6,0l60.8,60.8,59.4-59.4L253.44,18.43c-.17-.17-.44-.17-.6,0L86.18,185.09C10.91,260.36-1.29,374.77,49.5,462.77l68.76-68.76c-20.12-51.84-9.29-112.91,32.55-154.76Z"/>
+  </g>
+</svg>
